@@ -1,4 +1,4 @@
 [submodule "recipes"]
 	path = recipes
-	url = https://github.com/gnuradio/recipes.git
-    branch = master
+	url = https://github.com/gnuradio/recipes_legacy.git
+	branch = master
